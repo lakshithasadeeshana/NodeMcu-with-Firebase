@@ -5,10 +5,10 @@
 #include <ESP8266HTTPClient.h>
  
 // Set these to run example.
-#define FIREBASE_HOST "nodemcu-iot-a8e67.firebaseio.com"
-#define FIREBASE_AUTH "qCdAFAdbQ4pK4ZJmOgW7nVy51LpQPJheX1WkMZBf"
-#define WIFI_SSID "AF23-B9CC"
-#define WIFI_PASSWORD "35L957Q7"
+#define FIREBASE_HOST "firebase link"
+#define FIREBASE_AUTH "auth key"
+#define WIFI_SSID "Firebase SSID"
+#define WIFI_PASSWORD "Password"
  
 int led1; 
 int LED = 5;
